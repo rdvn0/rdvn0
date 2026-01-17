@@ -5,14 +5,14 @@
   <h1 align="center">Hi there, I'm Rıdvan! <img src="https://media.giphy.com/media/hvRJCLFzcuMiSJL9hA/giphy.gif" width="30px"></h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=C5A572&center=true&vCenter=true&width=500&lines=Backend+Web+Developer;Building+Scalable+Architectures;Creator+of+Creavory+CMS" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=C5A572&center=true&vCenter=true&width=500&lines=Backend+Web+Developer;Building+Scalable+Architectures;Visit+rdvntpkky.com" alt="Typing SVG" />
   </a>
 
   <br/>
 
   <p>
     I'm a backend-focused developer specializing in building high-performance systems. <br>
-    Currently working on <b>Creavory CMS</b> and modernizing agency infrastructures.
+    Check out my portfolio and projects at <b>rdvntpkky.com</b>.
   </p>
 
   <br/>
@@ -30,14 +30,6 @@
 
   <br/>
 
-  <h3>🚀 Current Project</h3>
-  
-  <a href="https://github.com/rdvn0/creavory-agency">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rdvn0&repo=creavory-agency&theme=omni&bg_color=0f172a&title_color=C5A572&text_color=cbd5e1&icon_color=C5A572&border_color=C5A572" />
-  </a>
-
-  <br/><br/>
-
   <h3>📊 GitHub Stats</h3>
 
   <div align="center">
@@ -47,8 +39,12 @@
 
   <br/>
   
-  <a href="mailto:info@creavory.com">
-    <img src="https://img.shields.io/badge/Contact-info%40creavory.com-black?style=flat-square&logo=gmail" />
+  <a href="https://rdvntpkky.com">
+    <img src="https://img.shields.io/badge/Website-rdvntpkky.com-C5A572?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+  
+  <a href="mailto:rdvntpkky@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Email_Me-black?style=for-the-badge&logo=gmail" />
   </a>
 
 </div>
