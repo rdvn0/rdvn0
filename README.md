@@ -24,8 +24,8 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
     <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
     <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   </p>
 
   <br/>
@@ -44,7 +44,7 @@
   </a>
   
   <a href="mailto:rdvntpkky@gmail.com">
-    <img src="https://img.shields.io/badge/Contact-Email_Me-black?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Contact-rdvntpkky%40gmail.com-black?style=for-the-badge&logo=gmail" />
   </a>
 
 </div>
